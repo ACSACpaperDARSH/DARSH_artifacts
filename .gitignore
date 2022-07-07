@@ -1,0 +1,6 @@
+**/__pycache__/
+.*
+!/.gitignore
+main/https://
+other_github_repos/
+site_clone_python/test**
